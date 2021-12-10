@@ -1,0 +1,14 @@
+
+:hhhhjjjj
+jh
+you are a good boy
+lets move on
+i know mk dir
+rm dir
+rm file
+rm -f file 
+rm -r dir
+cp file1 file2
+mv file1 file2
+touch file
+
